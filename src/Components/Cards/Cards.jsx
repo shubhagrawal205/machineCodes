@@ -7,6 +7,8 @@ const Cards = () => {
     { title: 'Infinite Scroll', link: '/infinite-scroll' },
     { title: 'Tabs', link: '/tabs' },
     { title: 'Tic Tac Toe', link: '/tic-tac-toe' },
+    { title: 'Calculator', link: '/Calculator' },
+    { title: 'Traffic Lights', link: '/TrafficLights' },
   ];
 
   const navigate = useNavigate();

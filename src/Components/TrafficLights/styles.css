@@ -1,0 +1,39 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .trafficLight-container {
+    background-color: black;
+    width: 120px;
+    padding: 10px;
+  }
+  .trafficLight {
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .background-red {
+    background-color: red;
+  }
+  
+  .background-green {
+    background-color: green;
+  }
+  .background-yellow {
+    background-color: yellow;
+  }
+  .background-grey {
+    background-color: grey;
+  }
+
+  .timer {
+    font-size: 3rem; /* Large font size */
+    color: white;
+    /* font-weight: bold; */
+    position: relative;
+    margin-top: 1.3rem;
+  }
